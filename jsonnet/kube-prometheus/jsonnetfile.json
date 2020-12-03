@@ -40,11 +40,11 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/langecode/kubernetes-mixin/tree/feature/cluster-aware-alerts",
+          "remote": "https://github.com/jsmcnair/kubernetes-mixin",
           "subdir": ""
         }
       },
-      "version": "release-0.6"
+      "version": "cluster-aware-alerts"
     },
     {
       "source": {
