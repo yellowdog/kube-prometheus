@@ -44,6 +44,16 @@
     {
       "source": {
         "git": {
+          "remote": "https://github.com/jsmcnair/kubernetes-mixin.git",
+          "subdir": ""
+        }
+      },
+      "version": "2baa989117b7a4a0dc397d89fc203406cb05cfb3",
+      "sum": "a6J8EM0+etlC13fN3nupEBOUeOH1eTj0zJc4cH9aw3c="
+    },
+    {
+      "source": {
+        "git": {
           "remote": "https://github.com/ksonnet/ksonnet-lib.git",
           "subdir": ""
         }
@@ -81,16 +91,6 @@
       },
       "version": "eba9142028841d5181ce09836fb1e0c2cf54f90c",
       "sum": "Yf8mNAHrV1YWzrdV8Ry5dJ8YblepTGw3C0Zp10XIYLo="
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/langecode/kubernetes-mixin.git",
-          "subdir": ""
-        }
-      },
-      "version": "7e3f51759542483f7395ea29cf2dc46ea4dbc699",
-      "sum": "+pR3jhdG/EZTNjy8S9TBWjMXUJLTmx7HcQC5oKzwi6k="
     },
     {
       "source": {
