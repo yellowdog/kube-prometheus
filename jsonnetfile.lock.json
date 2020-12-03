@@ -8,8 +8,8 @@
           "subdir": "grafana"
         }
       },
-      "version": "014301fd5f71d8305a395b2fb437089a7b1a3999",
-      "sum": "RHtpk2c0CcliWyt6F4DIgwpi4cEfHADK7nAxIw6RTGs="
+      "version": "7176a6d54b3b19e0529ce574ab5ed427f1c721e9",
+      "sum": "IrxVMYJrTbDliaVMXX72jUKm8Ju2Za8cAbds7d26wuY="
     },
     {
       "source": {
@@ -18,7 +18,7 @@
           "subdir": "Documentation/etcd-mixin"
         }
       },
-      "version": "ca866c02422ff3f3d1f0876898a30c33dd7bcccf",
+      "version": "bfc97c1123659c1329a8c057eda6be06fb024741",
       "sum": "bLqTqEr0jky9zz5MV/7ucn6H5mph2NlXas0TVnGNB1Y="
     },
     {
@@ -38,8 +38,8 @@
           "subdir": "grafana-builder"
         }
       },
-      "version": "9c3fb8096e1f80e2f3a84566566906ff187f5a8c",
-      "sum": "9/eJqljTTtJeq9QRjabdKWL6yD8a7VzLmGKBK3ir77k="
+      "version": "cb8787cd974c4291ee6aa2c17f211010429da554",
+      "sum": "mD0zEP9FVFXeag7EaeS5OvUr2A9D6DQhGemoNn6+PLc="
     },
     {
       "source": {
@@ -56,20 +56,10 @@
       "source": {
         "git": {
           "remote": "https://github.com/kubernetes-monitoring/kubernetes-mixin.git",
-          "subdir": ""
-        }
-      },
-      "version": "1941868d86a7c37e5505a14e3d567bda90e80357",
-      "sum": "ypWxhZVFWF53k7qIkSpUvnI6IGyFBNKmgrzjNtLwMIM="
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/kubernetes-monitoring/kubernetes-mixin.git",
           "subdir": "lib/promgrafonnet"
         }
       },
-      "version": "ead45674dba3c8712e422d99223453177aac6bf4",
+      "version": "d4dbc0aa59dd2c35453b53155fd4021719df5cb1",
       "sum": "zv7hXGui6BfHzE9wPatHI/AGZa4A2WKo6pq7ZdqBsps="
     },
     {
@@ -95,11 +85,21 @@
     {
       "source": {
         "git": {
+          "remote": "https://github.com/langecode/kubernetes-mixin.git",
+          "subdir": ""
+        }
+      },
+      "version": "7e3f51759542483f7395ea29cf2dc46ea4dbc699",
+      "sum": "+pR3jhdG/EZTNjy8S9TBWjMXUJLTmx7HcQC5oKzwi6k="
+    },
+    {
+      "source": {
+        "git": {
           "remote": "https://github.com/prometheus-operator/prometheus-operator.git",
           "subdir": "jsonnet/mixin"
         }
       },
-      "version": "d8b7d3766225908d0239fd0d78258892cd0fc384",
+      "version": "90cd71ac857122012101ab090ee713d3ea3afd99",
       "sum": "6reUygVmQrLEWQzTKcH8ceDbvM+2ztK3z2VBR2K2l+U="
     },
     {

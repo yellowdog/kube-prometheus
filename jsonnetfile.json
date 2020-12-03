@@ -7,7 +7,7 @@
           "directory": "jsonnet/kube-prometheus"
         }
       },
-      "version": ""
+      "version": "master"
     }
   ],
   "legacyImports": true
