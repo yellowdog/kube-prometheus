@@ -8,8 +8,8 @@
           "subdir": "grafana"
         }
       },
-      "version": "3dd98c495e511ee7d5c0ba9b27697bd0f703b537",
-      "sum": "61N5W/7mcAKNQ1CS38XUsNNQbR1T7M3wCv3R7UgHcr0="
+      "version": "7176a6d54b3b19e0529ce574ab5ed427f1c721e9",
+      "sum": "IrxVMYJrTbDliaVMXX72jUKm8Ju2Za8cAbds7d26wuY="
     },
     {
       "source": {
@@ -18,7 +18,7 @@
           "subdir": "Documentation/etcd-mixin"
         }
       },
-      "version": "28d1af294e4394df1ed967a4ac4fbaf437be3463",
+      "version": "bfc97c1123659c1329a8c057eda6be06fb024741",
       "sum": "bLqTqEr0jky9zz5MV/7ucn6H5mph2NlXas0TVnGNB1Y="
     },
     {
@@ -38,7 +38,7 @@
           "subdir": "grafana-builder"
         }
       },
-      "version": "12bd9ba3ae568159f8e3b04dfab0ba6f8a3ae2c0",
+      "version": "cb8787cd974c4291ee6aa2c17f211010429da554",
       "sum": "mD0zEP9FVFXeag7EaeS5OvUr2A9D6DQhGemoNn6+PLc="
     },
     {
@@ -56,20 +56,10 @@
       "source": {
         "git": {
           "remote": "https://github.com/kubernetes-monitoring/kubernetes-mixin.git",
-          "subdir": ""
-        }
-      },
-      "version": "7e3f51759542483f7395ea29cf2dc46ea4dbc699",
-      "sum": "+pR3jhdG/EZTNjy8S9TBWjMXUJLTmx7HcQC5oKzwi6k="
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/kubernetes-monitoring/kubernetes-mixin.git",
           "subdir": "lib/promgrafonnet"
         }
       },
-      "version": "7e3f51759542483f7395ea29cf2dc46ea4dbc699",
+      "version": "d4dbc0aa59dd2c35453b53155fd4021719df5cb1",
       "sum": "zv7hXGui6BfHzE9wPatHI/AGZa4A2WKo6pq7ZdqBsps="
     },
     {
@@ -95,11 +85,21 @@
     {
       "source": {
         "git": {
+          "remote": "https://github.com/langecode/kubernetes-mixin.git",
+          "subdir": ""
+        }
+      },
+      "version": "7e3f51759542483f7395ea29cf2dc46ea4dbc699",
+      "sum": "+pR3jhdG/EZTNjy8S9TBWjMXUJLTmx7HcQC5oKzwi6k="
+    },
+    {
+      "source": {
+        "git": {
           "remote": "https://github.com/prometheus-operator/prometheus-operator.git",
           "subdir": "jsonnet/mixin"
         }
       },
-      "version": "56720e5bc058f42c1879f6f449f7a605e18ac0a8",
+      "version": "90cd71ac857122012101ab090ee713d3ea3afd99",
       "sum": "6reUygVmQrLEWQzTKcH8ceDbvM+2ztK3z2VBR2K2l+U="
     },
     {
